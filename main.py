@@ -1,5 +1,5 @@
 # That's a program that process a batch of image pairs.
-
+# TEST
 # Import necessary modules
 import cython
 import numpy as np        # Necessary for the correct performance of the script
